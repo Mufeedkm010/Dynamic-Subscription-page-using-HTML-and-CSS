@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    background-color: #ffffff;
+    background-color: lightsalmon;
     padding: 40px;
     width: 40%;
     border-radius: 10px;
@@ -46,6 +46,7 @@ body {
 
 .checkbox input[type="checkbox"] {
     margin-right: 10px;
+    
 }
 
 .subs button {
